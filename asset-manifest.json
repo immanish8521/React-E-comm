@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-E-comm/static/css/main.38054590.chunk.css",
+    "main.js": "/React-E-comm/static/js/main.93f24ffc.chunk.js",
+    "main.js.map": "/React-E-comm/static/js/main.93f24ffc.chunk.js.map",
+    "runtime-main.js": "/React-E-comm/static/js/runtime-main.04a6fbed.js",
+    "runtime-main.js.map": "/React-E-comm/static/js/runtime-main.04a6fbed.js.map",
+    "static/js/2.7edd4175.chunk.js": "/React-E-comm/static/js/2.7edd4175.chunk.js",
+    "static/js/2.7edd4175.chunk.js.map": "/React-E-comm/static/js/2.7edd4175.chunk.js.map",
+    "index.html": "/React-E-comm/index.html",
+    "precache-manifest.68c9e30bc458c09d1415bbb17a030273.js": "/React-E-comm/precache-manifest.68c9e30bc458c09d1415bbb17a030273.js",
+    "service-worker.js": "/React-E-comm/service-worker.js",
+    "static/css/main.38054590.chunk.css.map": "/React-E-comm/static/css/main.38054590.chunk.css.map",
+    "static/js/2.7edd4175.chunk.js.LICENSE": "/React-E-comm/static/js/2.7edd4175.chunk.js.LICENSE",
+    "static/media/logo.1190aa98.svg": "/React-E-comm/static/media/logo.1190aa98.svg",
+    "static/media/shopping-bag.09e6f5e7.svg": "/React-E-comm/static/media/shopping-bag.09e6f5e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04a6fbed.js",
+    "static/js/2.7edd4175.chunk.js",
+    "static/css/main.38054590.chunk.css",
+    "static/js/main.93f24ffc.chunk.js"
+  ]
+}
